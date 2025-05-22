@@ -3,5 +3,5 @@
 This is my take on a node module for pharmacy management.
 
 # References
-- [https://www.watsons.com.sg/] (Watsons Singapore)
-- [https://www.guardian.com.sg/] (Guardian Singapore)
+- [Watsons Singapore](https://www.watsons.com.sg/)
+- [Guardian Singapore](https://www.guardian.com.sg/)
