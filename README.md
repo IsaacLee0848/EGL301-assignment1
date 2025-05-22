@@ -90,6 +90,7 @@ View Prescription History for User. Specify the `userName` of the prescription.
 E.g.
 ```js
 viewPrescriptionHistoryforUser("John Doe");
+```
 
 # References
 - [Watsons Singapore](https://www.watsons.com.sg/)
